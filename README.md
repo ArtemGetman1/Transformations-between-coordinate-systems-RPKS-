@@ -1,7 +1,7 @@
 # Лабораторна робота 3: Реалізація перетворень між системами координат
 
 <p align="center">
- <a href="https://codepen.io/pienovakatya/pen/vEBGbLG" target="_blank">
+ <a href="https://codepen.io/ArtemGetman/pen/MYgKKjG" target="_blank">
    <img src="https://img.shields.io/badge/Онлайн_демонстрація-4B0082?style=for-the-badge" alt="Демонстрація проєкту">
  </a>
 </p>
